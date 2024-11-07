@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab9", "Lab9.csproj", "{5EC69ECA-AFE2-4EA3-ADED-65F4AE4F0D4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryForLab9", "..\LibraryForLab9\LibraryForLab9.csproj", "{991BB037-2148-4CD4-838B-AB587612A247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckTest", "..\DuckTest\DuckTest.csproj", "{E5D18805-6656-4ACA-8A8F-B1C74C5D894E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EC69ECA-AFE2-4EA3-ADED-65F4AE4F0D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC69ECA-AFE2-4EA3-ADED-65F4AE4F0D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC69ECA-AFE2-4EA3-ADED-65F4AE4F0D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC69ECA-AFE2-4EA3-ADED-65F4AE4F0D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991BB037-2148-4CD4-838B-AB587612A247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991BB037-2148-4CD4-838B-AB587612A247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991BB037-2148-4CD4-838B-AB587612A247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991BB037-2148-4CD4-838B-AB587612A247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D18805-6656-4ACA-8A8F-B1C74C5D894E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D18805-6656-4ACA-8A8F-B1C74C5D894E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D18805-6656-4ACA-8A8F-B1C74C5D894E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D18805-6656-4ACA-8A8F-B1C74C5D894E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2EA7C15-2762-4A2A-A2F6-F2A06D18C227}
+	EndGlobalSection
+EndGlobal
